@@ -66,7 +66,7 @@ Uma aplicação web moderna para descobrir, buscar e organizar suas músicas fav
 git clone <URL_DO_REPOSITÓRIO>
 
 # Acesse o diretório
-cd aplicao-web-musicas
+cd aplicacao-web-musicas
 
 # Instale as dependências
 npm install
